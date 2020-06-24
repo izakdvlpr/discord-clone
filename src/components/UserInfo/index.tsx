@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Profile, Avatar, UserData, Icons, MicIcon, HeadphoneIcon, SettingsIcon } from './styles';
 
-const ServerName: React.FC = () => {
+const UserInfo: React.FC = () => {
   return (
     <Container>
       <Profile>
@@ -22,4 +22,4 @@ const ServerName: React.FC = () => {
   );
 }
 
-export default ServerName;
+export default UserInfo;

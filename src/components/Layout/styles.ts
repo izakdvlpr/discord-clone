@@ -5,7 +5,7 @@ import styled from 'styled-components';
 // CI - Channel Info
 // CL - Channel List
 // CD - Channel Data
-// UL - Users List
+// UL - User List
 // UI - User Info
 
 export const Grid = styled.div`
