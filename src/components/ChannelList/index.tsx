@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import ChannelButton from '../ChannelButton'
+import ChannelButton from "../ChannelButton";
 
 import { Container, Category, AddCategoryIcon } from "./styles";
 
@@ -11,14 +11,14 @@ const ChannelList: React.FC = () => {
         <span>Canais de texto</span>
         <AddCategoryIcon />
       </Category>
-      
-      <ChannelButton channelName="chat-livrin" />
-      <ChannelButton channelName="trabalhin" />
-      <ChannelButton channelName="lolzi" />
-      <ChannelButton channelName="cszin" />
-      <ChannelButton channelName="valorantzin" />      
+
+      <ChannelButton channelName="chat-livre" />
+      <ChannelButton channelName="trabalho" />
+      <ChannelButton channelName="lolzinho" />
+      <ChannelButton channelName="csgo" />
+      <ChannelButton channelName="valorant" />
     </Container>
   );
-}
+};
 
 export default ChannelList;
