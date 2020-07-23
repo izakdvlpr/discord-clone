@@ -8,7 +8,7 @@
     <a href="#customs-license">Licença</a>
   </p>
   <a href="https://github.com/zevdvlpr/clone-discord/tree/master/LICENSE">
-    <img src="https://img.shields.io/github/license/zevdvlpr/clone-discord?color=%23000000&label=License&style=flat-square" alt="License">
+    <img src="https://img.shields.io/github/license/zevdvlpr/clone-discord?color=0080ff&label=License&style=flat-square" alt="License">
   </a>
 </div>
 
