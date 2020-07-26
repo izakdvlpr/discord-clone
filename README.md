@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Clone Discord</h1>
+  <img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="logo" height="70"/>
+  <h1>Discord Clone</h1>
   <p>Clone da interface do Discord para fins de estudo.</p>
   <p>
     <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
