@@ -3,6 +3,7 @@
   <h1>Discord Clone</h1>
   <p>Clone da interface do Discord para fins de estudo.</p>
   <p>
+    <a href="#keyboard-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#gear-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,9 +11,21 @@
     <a href="#recycle-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#customs-license">Licença</a>
   </p>
-  <a href="https://github.com/zevdvlpr/discord-clone/blob/master/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/discord-clone?color=0080ff&label=License&style=flat-square" alt="License"></a>
-  <a href="https://discord-clone-zevdvlpr.vercel.app"><img src="https://img.shields.io/badge/Deploy-View%20Site-0080ff?style=flat-square" alt="Deploy"></a>
+  <img src="https://img.shields.io/github/repo-size/zevdvlpr/discord-clone?color=7289da&style=flat-square" alt="GitHub repo size">
+  <a href="https://github.com/zevdvlpr/discord-clone/commits/master">
+    <img src="https://img.shields.io/github/last-commit/zevdvlpr/discord-clone?color=7289da&style=flat-square" alt="GitHub last commit">
+  </a>
+  <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">
+    <img src="https://img.shields.io/github/license/zevdvlpr/discord-clone?color=7289da&label=license&style=flat-square" alt="GitHub License">
+  </a>  
+  <a href="https://github.com/zevdvlpr/discord-clone/stargazers">
+    <img src="https://img.shields.io/github/stars/zevdvlpr/discord-clone?color=7289da&logo=github&style=flat-square" alt="GitHub Stargazers">
+  </a>
 </div>
+
+## :keyboard: Resultado
+
+Veja o deploy do site [clicando aqui](https://discord-clone-zevdvlpr.vercel.app/).
 
 ## :page_with_curl: Sobre
 
