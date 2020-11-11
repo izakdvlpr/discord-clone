@@ -24,6 +24,7 @@ The project itself was created in order to implement my knowledge learned using 
 
 # Requirements
 
+- [Git](https://git-scm.com/) installed
 - [Node](https://node.js.org/) installed
 - Npm or [Yarn](https://yarnpkg.com/) installed
 
@@ -35,3 +36,11 @@ The project itself was created in order to implement my knowledge learned using 
 # Authors
 
 - [zevdvlpr](https://github.com/zevdvlpr)
+
+<br />
+
+<div align="center">
+  <h1>Open Source</h1>
+  <sub>Copyright © 2020-present, zevdvlpr.</sub>
+  <p>Discord Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
+</div>
