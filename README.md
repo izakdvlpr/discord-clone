@@ -45,5 +45,5 @@ The project itself was created in order to implement my knowledge learned using 
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2020-present, zevdvlpr.</sub>
-  <p>Discord Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
+  <p>Discord UI Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
 </div>
