@@ -37,7 +37,10 @@ The project itself was created in order to implement my knowledge learned using 
 
 - [zevdvlpr](https://github.com/zevdvlpr)
 
-<br />
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   <h1>Open Source</h1>
