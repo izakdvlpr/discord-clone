@@ -3,6 +3,8 @@
   
   <p>Discord UI Clone (partial) for study purposes.</p>
   
+  <hr />
+  
   ![Type](https://img.shields.io/static/v1?label=type&message=ui%20clone&color=orange)
   ![Language](https://img.shields.io/static/v1?label=language&message=typescript&color=blue)
   ![Plataform](https://img.shields.io/static/v1?label=plataform&message=web&color=blueviolet)
@@ -32,4 +34,4 @@ The project itself was created in order to implement my knowledge learned using 
 
 # Authors
 
-- [zevdvlpr](https://github.com/zevdvlpr) - /zevdvlpr
+- [zevdvlpr](https://github.com/zevdvlpr)
