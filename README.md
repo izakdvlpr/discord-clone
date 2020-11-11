@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" width="120" />
+  <img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="120" />
   
   <h1>UI Clone - Discord</h1>
   
@@ -56,5 +56,5 @@ The project itself was created in order to implement my knowledge learned using 
   <h1>Open Source</h1>
   <sub>Copyright © 2020-present, zevdvlpr.</sub>
   <p>Discord UI Clone <a href="https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE">is MIT licensed 💖</a></p>
-  <img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" width="35" />
+  <img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" width="35" />
 </div>
