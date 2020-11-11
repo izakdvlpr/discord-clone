@@ -1,4 +1,4 @@
-<div style="text-align: center">  
+<div align="center">  
   <h1>UI Clone - Discord</h1>
   
   <p>Discord UI Clone (partial) for study purposes.</p>
@@ -9,6 +9,10 @@
   [![Deploy](https://img.shields.io/static/v1?label=deploy&message=vercel&color=brightgreen)](https://discord-clone-zevdvlpr.vercel.app/)
   [![License](https://img.shields.io/github/license/zevdvlpr/discord-clone?color=red&label=license)](https://github.com/zevdvlpr/discord-clone/tree/master/LICENSE)  
 </div>
+
+# About
+
+The project itself was created in order to implement my knowledge learned using React and Typescript.
 
 # Techs
 
@@ -25,3 +29,7 @@
 
 - Run `npm install` or `yarn install`.
 - Run `yarn start` and access `http://localhost:3000`
+
+# Authors
+
+- [zevdvlpr](https://github.com/zevdvlpr) - /zevdvlpr
